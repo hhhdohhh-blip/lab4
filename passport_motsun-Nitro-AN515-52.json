@@ -1,0 +1,340 @@
+{
+    "collected_at": "2026-11-25 13:56:33",
+    "system": {
+        "hostname": "motsun-Nitro-AN515-52",
+        "os": "Linux",
+        "os_version": "#43-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct 23 13:25:25 UTC 2026",
+        "architecture": "x86_64",
+        "boot_time": "2026-11-24 12:38"
+    },
+    "cpu": {
+        "model": "",
+        "physical_cores": 4,
+        "logical_cores": 8,
+        "max_freq_mhz": 4000,
+        "load_percent": 3.9
+    },
+    "memory": {
+        "total_gb": 11.0,
+        "used_percent": 40.9,
+        "available_gb": 6.5
+    },
+    "disks": [
+        {
+            "device": "/dev/nvme0n1p2",
+            "mountpoint": "/",
+            "fs": "ext4",
+            "total_gb": 232.6,
+            "used_percent": 11.3
+        },
+        {
+            "device": "/dev/nvme0n1p1",
+            "mountpoint": "/boot/efi",
+            "fs": "vfat",
+            "total_gb": 1.0,
+            "used_percent": 0.6
+        },
+        {
+            "device": "/dev/loop0",
+            "mountpoint": "/snap/chromium/3563",
+            "fs": "squashfs",
+            "total_gb": 0.2,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop1",
+            "mountpoint": "/snap/bare/5",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop2",
+            "mountpoint": "/snap/chromium/3569",
+            "fs": "squashfs",
+            "total_gb": 0.2,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop3",
+            "mountpoint": "/snap/core18/3084",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop4",
+            "mountpoint": "/snap/core22/2133",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop5",
+            "mountpoint": "/snap/core22/2955",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop6",
+            "mountpoint": "/snap/core24/2124",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop7",
+            "mountpoint": "/snap/core26/646",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop8",
+            "mountpoint": "/snap/core26/750",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop11",
+            "mountpoint": "/snap/desktop-security-center/206",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop9",
+            "mountpoint": "/snap/cups/1268",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop12",
+            "mountpoint": "/snap/desktop-security-center/59",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop10",
+            "mountpoint": "/snap/cups/1277",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop13",
+            "mountpoint": "/snap/firmware-updater/167",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop14",
+            "mountpoint": "/snap/firefox/9036",
+            "fs": "squashfs",
+            "total_gb": 0.3,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop15",
+            "mountpoint": "/snap/firmware-updater/262",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop17",
+            "mountpoint": "/snap/gnome-3-28-1804/198",
+            "fs": "squashfs",
+            "total_gb": 0.2,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop16",
+            "mountpoint": "/snap/gaming-graphics-core24/13",
+            "fs": "squashfs",
+            "total_gb": 0.2,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop18",
+            "mountpoint": "/snap/gnome-42-2204/226",
+            "fs": "squashfs",
+            "total_gb": 0.5,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop20",
+            "mountpoint": "/snap/gnome-46-2404/168",
+            "fs": "squashfs",
+            "total_gb": 0.6,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop19",
+            "mountpoint": "/snap/gnome-42-2204/263",
+            "fs": "squashfs",
+            "total_gb": 0.5,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop21",
+            "mountpoint": "/snap/gtk-common-themes/1535",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop23",
+            "mountpoint": "/snap/prompting-client/228",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop24",
+            "mountpoint": "/snap/prompting-client/104",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop22",
+            "mountpoint": "/snap/mesa-2404/1839",
+            "fs": "squashfs",
+            "total_gb": 0.4,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop26",
+            "mountpoint": "/snap/snap-store/1468",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop25",
+            "mountpoint": "/snap/snap-store/1447",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop28",
+            "mountpoint": "/snap/snapd/28254",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop27",
+            "mountpoint": "/snap/snapd/25202",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop32",
+            "mountpoint": "/snap/snapd-desktop-integration/391",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop29",
+            "mountpoint": "/snap/thunderbird/1333",
+            "fs": "squashfs",
+            "total_gb": 0.2,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop33",
+            "mountpoint": "/snap/snapd-desktop-integration/315",
+            "fs": "squashfs",
+            "total_gb": 0.0,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop30",
+            "mountpoint": "/snap/thunderbird/1312",
+            "fs": "squashfs",
+            "total_gb": 0.2,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop34",
+            "mountpoint": "/snap/teams-for-linux/2805",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        },
+        {
+            "device": "/dev/loop31",
+            "mountpoint": "/snap/teams-for-linux/2718",
+            "fs": "squashfs",
+            "total_gb": 0.1,
+            "used_percent": 100.0
+        }
+    ],
+    "network": [
+        {
+            "name": "lo",
+            "ipv4": "127.0.0.1",
+            "netmask": "255.0.0.0",
+            "mac": "00:00:00:00:00:00"
+        },
+        {
+            "name": "wlp0s20f3",
+            "ipv4": "10.207.105.224",
+            "netmask": "255.255.255.0",
+            "mac": "fc:77:74:5a:c5:da"
+        },
+        {
+            "name": "docker0",
+            "ipv4": "172.17.0.1",
+            "netmask": "255.255.0.0",
+            "mac": "9e:de:28:15:40:0e"
+        }
+    ],
+    "recommendations": [
+        "Освободить место на диске /snap/chromium/3563",
+        "Освободить место на диске /snap/bare/5",
+        "Освободить место на диске /snap/chromium/3569",
+        "Освободить место на диске /snap/core18/3084",
+        "Освободить место на диске /snap/core22/2133",
+        "Освободить место на диске /snap/core22/2955",
+        "Освободить место на диске /snap/core24/2124",
+        "Освободить место на диске /snap/core26/646",
+        "Освободить место на диске /snap/core26/750",
+        "Освободить место на диске /snap/desktop-security-center/206",
+        "Освободить место на диске /snap/cups/1268",
+        "Освободить место на диске /snap/desktop-security-center/59",
+        "Освободить место на диске /snap/cups/1277",
+        "Освободить место на диске /snap/firmware-updater/167",
+        "Освободить место на диске /snap/firefox/9036",
+        "Освободить место на диске /snap/firmware-updater/262",
+        "Освободить место на диске /snap/gnome-3-28-1804/198",
+        "Освободить место на диске /snap/gaming-graphics-core24/13",
+        "Освободить место на диске /snap/gnome-42-2204/226",
+        "Освободить место на диске /snap/gnome-46-2404/168",
+        "Освободить место на диске /snap/gnome-42-2204/263",
+        "Освободить место на диске /snap/gtk-common-themes/1535",
+        "Освободить место на диске /snap/prompting-client/228",
+        "Освободить место на диске /snap/prompting-client/104",
+        "Освободить место на диске /snap/mesa-2404/1839",
+        "Освободить место на диске /snap/snap-store/1468",
+        "Освободить место на диске /snap/snap-store/1447",
+        "Освободить место на диске /snap/snapd/28254",
+        "Освободить место на диске /snap/snapd/25202",
+        "Освободить место на диске /snap/snapd-desktop-integration/391",
+        "Освободить место на диске /snap/thunderbird/1333",
+        "Освободить место на диске /snap/snapd-desktop-integration/315",
+        "Освободить место на диске /snap/thunderbird/1312",
+        "Освободить место на диске /snap/teams-for-linux/2805",
+        "Освободить место на диске /snap/teams-for-linux/2718"
+    ]
+}
